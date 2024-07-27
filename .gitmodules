@@ -1,0 +1,3 @@
+[submodule "localRepo"]
+	path = localRepo
+	url = https://github.com/Ayushi-priya/Practice.git
